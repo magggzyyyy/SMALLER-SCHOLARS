@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+	background-image: url('https://i.postimg.cc/pL1zNry2/20440547.jpg') ;	
+}
+#welcome {
+    color: #FFFFFF;
+    bottom: 0;
+    background-image: url('https://i.postimg.cc/Vkmq82YN/schoolweb.jpg') ;	
+    
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+#info{
+	text-align: left;
+		
+}
+#photogallery{
+	 ;	
+}
+#chatbot{
+	 ;	
+}
+#vedios{
+	;	
+}
+#contact{
+	 ;	
+}
